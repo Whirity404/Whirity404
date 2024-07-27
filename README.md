@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![可爱研磨-0](./img/ym0.jpg)
+👆万恶之源
+
 **I am a fw**
 
 - 🔭 我现在仍然在AIDE Mobile, GitHub,IntellJ Idea上工作着
