@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Whirity404/Whirity404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am a fw**
 
-Here are some ideas to get you started:
+- 🔭 我现在仍然在AIDE Mobile, GitHub,IntellJ Idea上工作着
+- 🌱 我仍然在学习 **如何草可爱米露**
+- 👯 我在QQ上找搭子
+- 🤔 我会经常寻求帮助，和Copilot
+- 💬 来我仓库坐下，提个issues吧。这是对我的最大帮助
+- 📫 怎么去抵达我：**mailto:3021174574@qq.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## yee
+- ⚡ 我的游戏资料库：
+-   -原神
+-   崩铁星穹坏道
+-   Minecraft
+-   绝区零
+
